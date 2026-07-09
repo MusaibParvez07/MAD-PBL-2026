@@ -62,10 +62,10 @@ nano .env
 
 Add this:
 
-SPOONACULAR_API_KEY=your_spoonacular_api_key
-GROQ_API_KEY=your_groq_api_key
-JWT_SECRET=mad_pbl_secret_2026
+SPOONACULAR_API_KEY=d927a6142ccb4c63859e33d38ffe7b77
+JWT_SECRET=recipe_finder_secret_key_2026_pbl_project
 PORT=3001
+GROQ_API_KEY=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
 
 Save in nano:
 
